@@ -20,7 +20,7 @@ namespace TicTacToeIA
 
             //convert o enum Pecas para um List<int>
             var PecasCombinacao = new List<int>();
-            PecasCombinacao.Add((int)Pecas.Embranco);
+            PecasCombinacao.Add((int)Pecas.Nenhum);
             PecasCombinacao.Add((int)Pecas.JogadorO);
             PecasCombinacao.Add((int)Pecas.JogadorX);
 
@@ -59,7 +59,7 @@ namespace TicTacToeIA
             var TesteA = ListaHistorico.FindAll(x => ArrayCompare(x.Posicao, JogadaEspecifica));
             TesteA.ForEach(x => ImprimirJogada(x.Posicao));
 
-            Console.WriteLine("Busca Uma as proximas jogadas válidas\n");
+            Console.WriteLine("Busca as proximas jogadas válidas\n");
             // encontra todas as combinações que poderiam decorrer deste caso gerado na JogadaEspecifica
             var TesteB = ListaHistorico.FindAll(x => AcharProximasJogadas(x.Posicao, JogadaEspecifica));
             TesteB.ForEach(x => ImprimirJogada(x.Posicao));
@@ -162,7 +162,7 @@ namespace TicTacToeIA
                 {
                     case 0:
                         {
-                            Texto += Pecas.Embranco + " -";
+                            Texto += Pecas.Nenhum + " -";
                             break;
                         }
                     case 1:
