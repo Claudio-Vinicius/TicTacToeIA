@@ -1,0 +1,13 @@
+C:\Users\silvacla\Documents\TicTacToeGame\TicTacToeIA\TicTacToeIA.Core\bin\Debug\netcoreapp3.1\TicTacToeIA.Core.deps.json
+C:\Users\silvacla\Documents\TicTacToeGame\TicTacToeIA\TicTacToeIA.Core\bin\Debug\netcoreapp3.1\TicTacToeIA.Core.dll
+C:\Users\silvacla\Documents\TicTacToeGame\TicTacToeIA\TicTacToeIA.Core\bin\Debug\netcoreapp3.1\TicTacToeIA.Core.pdb
+C:\Users\silvacla\Documents\TicTacToeGame\TicTacToeIA\TicTacToeIA.Core\bin\Debug\netcoreapp3.1\TicTacToeIA.Model.dll
+C:\Users\silvacla\Documents\TicTacToeGame\TicTacToeIA\TicTacToeIA.Core\bin\Debug\netcoreapp3.1\TicTacToeIA.Model.pdb
+C:\Users\silvacla\Documents\TicTacToeGame\TicTacToeIA\TicTacToeIA.Core\obj\Debug\netcoreapp3.1\TicTacToeIA.Core.csproj.AssemblyReference.cache
+C:\Users\silvacla\Documents\TicTacToeGame\TicTacToeIA\TicTacToeIA.Core\obj\Debug\netcoreapp3.1\TicTacToeIA.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\silvacla\Documents\TicTacToeGame\TicTacToeIA\TicTacToeIA.Core\obj\Debug\netcoreapp3.1\TicTacToeIA.Core.AssemblyInfoInputs.cache
+C:\Users\silvacla\Documents\TicTacToeGame\TicTacToeIA\TicTacToeIA.Core\obj\Debug\netcoreapp3.1\TicTacToeIA.Core.AssemblyInfo.cs
+C:\Users\silvacla\Documents\TicTacToeGame\TicTacToeIA\TicTacToeIA.Core\obj\Debug\netcoreapp3.1\TicTacToeIA.Core.csproj.CoreCompileInputs.cache
+C:\Users\silvacla\Documents\TicTacToeGame\TicTacToeIA\TicTacToeIA.Core\obj\Debug\netcoreapp3.1\TicTacToeIA.Core.csproj.CopyComplete
+C:\Users\silvacla\Documents\TicTacToeGame\TicTacToeIA\TicTacToeIA.Core\obj\Debug\netcoreapp3.1\TicTacToeIA.Core.dll
+C:\Users\silvacla\Documents\TicTacToeGame\TicTacToeIA\TicTacToeIA.Core\obj\Debug\netcoreapp3.1\TicTacToeIA.Core.pdb

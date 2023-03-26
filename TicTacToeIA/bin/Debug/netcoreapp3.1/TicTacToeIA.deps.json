@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "TicTacToeIA/1.0.0": {
+        "dependencies": {
+          "TicTacToeIA.Core": "1.0.0",
+          "TicTacToeIA.Model": "1.0.0"
+        },
+        "runtime": {
+          "TicTacToeIA.dll": {}
+        }
+      },
+      "TicTacToeIA.Core/1.0.0": {
+        "dependencies": {
+          "TicTacToeIA.Model": "1.0.0"
+        },
+        "runtime": {
+          "TicTacToeIA.Core.dll": {}
+        }
+      },
+      "TicTacToeIA.Model/1.0.0": {
+        "runtime": {
+          "TicTacToeIA.Model.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TicTacToeIA/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TicTacToeIA.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TicTacToeIA.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
